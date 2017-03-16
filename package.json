@@ -1,0 +1,24 @@
+{
+  "name": "heroku-pipelines-practice",
+  "version": "1.0.0",
+  "description": "for practicing heroku pipelines",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smmakowski/heroku-pipelines-practice.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "stephen-makowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smmakowski/heroku-pipelines-practice/issues"
+  },
+  "homepage": "https://github.com/smmakowski/heroku-pipelines-practice#readme"
+}
